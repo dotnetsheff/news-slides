@@ -1,0 +1,6 @@
+body {
+  background-image: url('images/dotnetsheff.svg'), radial-gradient(circle, #f7fbfc 0, #add9e4 100%);
+  background-repeat: no-repeat;
+  background-size: 25%, cover;
+  background-position: bottom right;
+}
